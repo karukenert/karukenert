@@ -1,8 +1,3 @@
-### Hi there 👋
-
-
-
-
 ### Hi there 👋 I'm Kenert. 
 
 ### GitHub stats:
