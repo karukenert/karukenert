@@ -2,8 +2,13 @@
 
 ### GitHub stats:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=karukenert&show_icons=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karukenert" />
+<a>
+  <img align="ecnter" src="https://github-readme-stats.vercel.app/api?username=karukenert&show_icons=true" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karukenert&layout=compact" />
+</a>
+
 
 ### Languages and Tools:
 
